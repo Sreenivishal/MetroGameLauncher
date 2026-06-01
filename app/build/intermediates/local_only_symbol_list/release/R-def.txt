@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+drawable bg_1
+drawable bg_2
+drawable bg_3
+drawable bg_4
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font segoe_ui
+font segoe_ui_light
+font titillium_web_light
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.ZunePlayer
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,159 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.xbox.gamelauncher"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+12-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:6:5-77
+12-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:6:22-74
+13    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+13-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:7:5-77
+13-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:7:22-74
+14    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+14-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:8:5-82
+14-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:8:22-79
+15
+16    <queries>
+16-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:10:5-15:15
+17        <intent>
+17-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:11:9-14:18
+18            <action android:name="android.intent.action.MAIN" />
+18-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:12:13-65
+18-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:12:21-62
+19
+20            <category android:name="android.intent.category.LAUNCHER" />
+20-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:13:13-73
+20-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:13:23-70
+21        </intent>
+22    </queries>
+23
+24    <permission
+24-->[androidx.core:core:1.13.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\77ae5d66b94bb0235af149054605f4a6\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+25        android:name="com.xbox.gamelauncher.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+25-->[androidx.core:core:1.13.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\77ae5d66b94bb0235af149054605f4a6\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+26        android:protectionLevel="signature" />
+26-->[androidx.core:core:1.13.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\77ae5d66b94bb0235af149054605f4a6\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+27
+28    <uses-permission android:name="com.xbox.gamelauncher.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+28-->[androidx.core:core:1.13.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\77ae5d66b94bb0235af149054605f4a6\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+28-->[androidx.core:core:1.13.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\77ae5d66b94bb0235af149054605f4a6\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+29
+30    <application
+30-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:17:5-37:19
+31        android:allowBackup="true"
+31-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:18:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.13.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\77ae5d66b94bb0235af149054605f4a6\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+33        android:dataExtractionRules="@xml/data_extraction_rules"
+33-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:19:9-65
+34        android:extractNativeLibs="false"
+35        android:fullBackupContent="@xml/backup_rules"
+35-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:20:9-54
+36        android:icon="@mipmap/ic_launcher"
+36-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:21:9-43
+37        android:label="Games"
+37-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:22:9-30
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:23:9-54
+39        android:supportsRtl="true"
+39-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:24:9-35
+40        android:theme="@style/Theme.ZunePlayer" >
+40-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:25:9-48
+41        <activity
+41-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:27:9-36:20
+42            android:name="com.xbox.launcher.MainActivity"
+42-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:28:13-41
+43            android:exported="true"
+43-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:29:13-36
+44            android:launchMode="singleTop"
+44-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:30:13-43
+45            android:theme="@style/Theme.ZunePlayer" >
+45-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:31:13-52
+46            <intent-filter>
+46-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:32:13-35:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:12:13-65
+47-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:12:21-62
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:13:13-73
+49-->C:\Users\Sreenivishal\Documents\Xbox\app\src\main\AndroidManifest.xml:13:23-70
+50            </intent-filter>
+51        </activity>
+52
+53        <provider
+53-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\3d132ed0473e8d9f1af71f92ef2705c3\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+54            android:name="androidx.startup.InitializationProvider"
+54-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\3d132ed0473e8d9f1af71f92ef2705c3\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+55            android:authorities="com.xbox.gamelauncher.androidx-startup"
+55-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\3d132ed0473e8d9f1af71f92ef2705c3\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+56            android:exported="false" >
+56-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\3d132ed0473e8d9f1af71f92ef2705c3\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+57            <meta-data
+57-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\3d132ed0473e8d9f1af71f92ef2705c3\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+58-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\3d132ed0473e8d9f1af71f92ef2705c3\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+59                android:value="androidx.startup" />
+59-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\3d132ed0473e8d9f1af71f92ef2705c3\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+60            <meta-data
+60-->[androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\92c8e131450ad5718c239954b0f94c8a\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:29:13-31:52
+61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\92c8e131450ad5718c239954b0f94c8a\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:30:17-78
+62                android:value="androidx.startup" />
+62-->[androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\92c8e131450ad5718c239954b0f94c8a\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:31:17-49
+63            <meta-data
+63-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+64-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+65                android:value="androidx.startup" />
+65-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+66        </provider>
+67
+68        <receiver
+68-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+69            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+69-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+70            android:directBootAware="false"
+70-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+71            android:enabled="true"
+71-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+72            android:exported="true"
+72-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+73            android:permission="android.permission.DUMP" >
+73-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+74            <intent-filter>
+74-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+75                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+75-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+75-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+76            </intent-filter>
+77            <intent-filter>
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+78                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+78-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+78-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+79            </intent-filter>
+80            <intent-filter>
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+81                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+82            </intent-filter>
+83            <intent-filter>
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+84                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Sreenivishal\.gradle\caches\8.13\transforms\908b47b1acab2fd97141733e679ddb28\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+85            </intent-filter>
+86        </receiver>
+87    </application>
+88
+89</manifest>

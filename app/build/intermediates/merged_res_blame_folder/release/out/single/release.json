@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.xbox.launcher.app-main-49:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/xml_backup_rules.xml.flat",
+        "source": "com.xbox.launcher.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/font_segoe_ui.ttf.flat",
+        "source": "com.xbox.launcher.app-main-49:/font/segoe_ui.ttf"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/drawable_bg_2.png.flat",
+        "source": "com.xbox.launcher.app-main-49:/drawable/bg_2.png"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.xbox.launcher.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.xbox.launcher.app-main-49:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/font_titillium_web_light.ttf.flat",
+        "source": "com.xbox.launcher.app-main-49:/font/titillium_web_light.ttf"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/drawable_bg_4.jpg.flat",
+        "source": "com.xbox.launcher.app-main-49:/drawable/bg_4.jpg"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.xbox.launcher.app-main-49:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.xbox.launcher.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.xbox.launcher.app-main-49:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.xbox.launcher.app-main-49:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/drawable_bg_3.jpg.flat",
+        "source": "com.xbox.launcher.app-main-49:/drawable/bg_3.jpg"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.xbox.launcher.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/font_segoe_ui_light.ttf.flat",
+        "source": "com.xbox.launcher.app-main-49:/font/segoe_ui_light.ttf"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/drawable_bg_1.jpg.flat",
+        "source": "com.xbox.launcher.app-main-49:/drawable/bg_1.jpg"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-48:/xml_data_extraction_rules.xml.flat",
+        "source": "com.xbox.launcher.app-main-49:/xml/data_extraction_rules.xml"
+    }
+]

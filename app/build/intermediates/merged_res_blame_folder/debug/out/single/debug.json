@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\drawable_bg_1.jpg.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\drawable\\bg_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\font_titillium_web_light.ttf.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\font\\titillium_web_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.xbox.launcher.app-merged_res-51:/font_segoe_ui_light.ttf.flat",
+        "source": "com.xbox.launcher.app-main-53:/font/segoe_ui_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\drawable_bg_4.jpg.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\drawable\\bg_4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\font_segoe_ui.ttf.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\font\\segoe_ui.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\drawable_bg_3.jpg.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\drawable\\bg_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\drawable_bg_2.png.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\drawable\\bg_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-merged_res-51:\\drawable_bg_2.jpg.flat",
+        "source": "C:\\Users\\Sreenivishal\\.gradle\\daemon\\8.13\\com.xbox.launcher.app-main-53:\\drawable\\bg_2.jpg"
+    }
+]
